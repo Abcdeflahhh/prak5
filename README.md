@@ -143,12 +143,12 @@ print("-" * 60)
 
 Code Program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-5/blob/349c4503f52243353071446cc6a471388cfd4363/Image/nilai.png)
+![gambar](https://github.com/Abcdeflahhh/prak5/blob/b44c9cdf9b5889e2ddf732a936e3ce5b4093dc36/Image/Screenshot%202024-11-12%20051101.png)
 
 Hasil Program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-5/blob/d0f3d8011ce2790877a2d682f1a44c820bd4d908/Image/Screenshot%202024-11-12%20051101.png)
+![gambar](https://github.com/Abcdeflahhh/prak5/blob/b44c9cdf9b5889e2ddf732a936e3ce5b4093dc36/Image/nilai%20(1).png)
 
 Dan ini flowchart nya:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-5/blob/ac106ac1f596e43ee3a488e4bb6059e15864a568/Image/Screenshot%202024-11-13%20083635.png)
+![gambar](https://github.com/Abcdeflahhh/prak5/blob/b44c9cdf9b5889e2ddf732a936e3ce5b4093dc36/Image/Screenshot%202024-11-13%20083635.png)
