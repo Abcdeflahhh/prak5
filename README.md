@@ -42,11 +42,11 @@ print(list_a)
 
 Code Program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-5/blob/fbb46c5a7ac540b78201de609480b76da1600f79/Image/elemen.png)
+![gambar](https://github.com/Abcdeflahhh/prak5/blob/813a6bba257903369c6e2600d6111dcf8dc4b3f6/Image/elemen%20(1).png)
 
 hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-5/blob/5863038094d09c4f9454f4a87b6107054eac4b21/Image/Screenshot%202024-11-13%20084625.png)
+![gambar](https://github.com/Abcdeflahhh/prak5/blob/813a6bba257903369c6e2600d6111dcf8dc4b3f6/Image/Screenshot%202024-11-12%20051452.png)
 
 # Menambah data.py
 
