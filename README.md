@@ -8,7 +8,7 @@ Matkul: Bahasa Pemrograman
 
 # Latihan Praktikum
 
-![gambar](https://github.com/andreanbadeh/Praktikum-5/blob/0e4ab1927010de801e920353230a3031c5a6e7c0/Image/Screenshot%202024-11-12%20043342.png)
+![gambar](https://github.com/Abcdeflahhh/foto-flowchart/blob/3026cc465e56bdfdfed29c8b87ebac29018e91f3/1.jpghttps://github.com/Abcdeflahhh/foto-flowchart/blob/3026cc465e56bdfdfed29c8b87ebac29018e91f3/1.jpg)
 
 # Elemen.py
 
