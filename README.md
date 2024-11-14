@@ -42,11 +42,11 @@ print(list_a)
 
 Code Program tersebut:
 
-![gambar](https://github.com/Abcdeflahhh/prak5/blob/813a6bba257903369c6e2600d6111dcf8dc4b3f6/Image/elemen%20(1).png)
+![gambar](https://github.com/Abcdeflahhh/foto-flowchart/blob/9dcc8811eadc8452d26aeb75398ee698ba74ec43/3.jpg)
 
 hasil program tersebut:
 
-![gambar](https://github.com/Abcdeflahhh/prak5/blob/813a6bba257903369c6e2600d6111dcf8dc4b3f6/Image/Screenshot%202024-11-12%20051452.png)
+![gambar](https://github.com/Abcdeflahhh/foto-flowchart/blob/c2e925fd780984ff302800e5e19a9a3e1bff4eb5/2.jpg)
 
 # Menambah data.py
 
